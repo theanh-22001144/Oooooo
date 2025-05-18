@@ -341,7 +341,7 @@ end
 AddButton(Tab6o, {
      Name = "scipt fam chest",
     Callback = function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/theanh-22001144/Kshdvx/refs/heads/main/autochest.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/theanh-22001144/Fam-chest/refs/heads/main/autochest.lua"))()
 end
 })
 AddButton(Tab6o, {
